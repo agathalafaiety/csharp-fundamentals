@@ -1,5 +1,6 @@
+//  2. Crie um programa que leia o nome e o ano de nascimento de uma pessoa. Exiba na tela a seguinte frase: “Olá {nome}, você tem ‘aa’ anos.”
 ﻿using System;
-using System.Collections.Generic;
+using System.Collections.Generic; 
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
