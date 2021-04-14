@@ -1,3 +1,4 @@
+// 4. Crie um programa que leia o nome de um produto, o seu valor unitário e a quantidade em estoque. Exiba no final a seguinte frase: “{Produto} – R$ {Valor Unitário} – Total: {Total}
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
