@@ -1,5 +1,5 @@
 // 1. Crie um programa que leia o nome e a idade de uma pessoa. Exiba na tela a seguinte frase: “Olá {nome}, você provavelmente nasceu em ‘aaaa’.”
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;                    //modulos
 using System.Text;
