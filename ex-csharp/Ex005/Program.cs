@@ -1,3 +1,4 @@
+// 5. Faça um programa que leia uma distância em Km. Sabe-se que o veículo faz 9 Km/l e que o combustível custa R$ 3,99 por litro. Informe no final o valor aproximado do custo da viagem.
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
