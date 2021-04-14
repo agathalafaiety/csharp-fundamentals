@@ -1,3 +1,4 @@
+// 3. Crie um programa que leia 3 valores inteiros e exiba no final a média desses valores.
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
