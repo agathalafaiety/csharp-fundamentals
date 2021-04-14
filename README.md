@@ -1,2 +1,2 @@
-# exercicios-csharp
+# exercicios-c#
  Exercicios resolvidos em C#
