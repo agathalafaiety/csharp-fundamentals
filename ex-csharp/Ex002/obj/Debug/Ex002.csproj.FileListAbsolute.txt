@@ -1,0 +1,7 @@
+C:\Users\Agatha Lafaiety\source\repos\Exercicios\Ex002\bin\Debug\Ex002.exe.config
+C:\Users\Agatha Lafaiety\source\repos\Exercicios\Ex002\bin\Debug\Ex002.exe
+C:\Users\Agatha Lafaiety\source\repos\Exercicios\Ex002\bin\Debug\Ex002.pdb
+C:\Users\Agatha Lafaiety\source\repos\Exercicios\Ex002\obj\Debug\Ex002.csprojAssemblyReference.cache
+C:\Users\Agatha Lafaiety\source\repos\Exercicios\Ex002\obj\Debug\Ex002.csproj.CoreCompileInputs.cache
+C:\Users\Agatha Lafaiety\source\repos\Exercicios\Ex002\obj\Debug\Ex002.exe
+C:\Users\Agatha Lafaiety\source\repos\Exercicios\Ex002\obj\Debug\Ex002.pdb
