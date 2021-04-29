@@ -1,2 +1,2 @@
 # Exercicios C#
- Exercicios resolvidos em C# 
+  aprendendo C# 
