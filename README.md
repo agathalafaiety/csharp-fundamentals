@@ -1,2 +1,2 @@
-# Exercicios C#
-  aprendendo C# 
+# learning C#
+  
