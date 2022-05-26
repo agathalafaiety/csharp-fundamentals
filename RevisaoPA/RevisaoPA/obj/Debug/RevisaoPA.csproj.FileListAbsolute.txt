@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\RevisaoPA\RevisaoPA\bin\Debug\RevisaoPA.exe.config
+C:\Users\Aluno\Desktop\RevisaoPA\RevisaoPA\bin\Debug\RevisaoPA.exe
+C:\Users\Aluno\Desktop\RevisaoPA\RevisaoPA\bin\Debug\RevisaoPA.pdb
+C:\Users\Aluno\Desktop\RevisaoPA\RevisaoPA\obj\Debug\RevisaoPA.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\RevisaoPA\RevisaoPA\obj\Debug\RevisaoPA.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\RevisaoPA\RevisaoPA\obj\Debug\RevisaoPA.exe
+C:\Users\Aluno\Desktop\RevisaoPA\RevisaoPA\obj\Debug\RevisaoPA.pdb

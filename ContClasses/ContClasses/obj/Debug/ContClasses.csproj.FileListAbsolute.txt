@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\ContClasses\ContClasses\bin\Debug\ContClasses.exe.config
+C:\Users\Aluno\Desktop\ContClasses\ContClasses\bin\Debug\ContClasses.exe
+C:\Users\Aluno\Desktop\ContClasses\ContClasses\bin\Debug\ContClasses.pdb
+C:\Users\Aluno\Desktop\ContClasses\ContClasses\obj\Debug\ContClasses.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ContClasses\ContClasses\obj\Debug\ContClasses.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ContClasses\ContClasses\obj\Debug\ContClasses.exe
+C:\Users\Aluno\Desktop\ContClasses\ContClasses\obj\Debug\ContClasses.pdb

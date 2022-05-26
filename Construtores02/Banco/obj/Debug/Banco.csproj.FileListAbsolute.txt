@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\Construtores\Banco\bin\Debug\Banco.exe.config
+C:\Users\Aluno\source\repos\Construtores\Banco\bin\Debug\Banco.exe
+C:\Users\Aluno\source\repos\Construtores\Banco\bin\Debug\Banco.pdb
+C:\Users\Aluno\source\repos\Construtores\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Construtores\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Construtores\Banco\obj\Debug\Banco.exe
+C:\Users\Aluno\source\repos\Construtores\Banco\obj\Debug\Banco.pdb
+E:\ETEC\2º Semestre\Materias\DS - Desenvolvimento de Sistemas\Visual Studio 2019\Construtores02\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+E:\ETEC\2º Semestre\Materias\DS - Desenvolvimento de Sistemas\Visual Studio 2019\Construtores02\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+E:\ETEC\2º Semestre\Materias\DS - Desenvolvimento de Sistemas\Visual Studio 2019\Construtores02\Banco\obj\Debug\Banco.exe
+E:\ETEC\2º Semestre\Materias\DS - Desenvolvimento de Sistemas\Visual Studio 2019\Construtores02\Banco\obj\Debug\Banco.pdb

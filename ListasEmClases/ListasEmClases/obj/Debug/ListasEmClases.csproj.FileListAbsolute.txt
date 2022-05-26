@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\ListasEmClases\ListasEmClases\bin\Debug\ListasEmClases.exe.config
+C:\Users\Aluno\Desktop\ListasEmClases\ListasEmClases\bin\Debug\ListasEmClases.exe
+C:\Users\Aluno\Desktop\ListasEmClases\ListasEmClases\bin\Debug\ListasEmClases.pdb
+C:\Users\Aluno\Desktop\ListasEmClases\ListasEmClases\obj\Debug\ListasEmClases.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ListasEmClases\ListasEmClases\obj\Debug\ListasEmClases.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ListasEmClases\ListasEmClases\obj\Debug\ListasEmClases.exe
+C:\Users\Aluno\Desktop\ListasEmClases\ListasEmClases\obj\Debug\ListasEmClases.pdb

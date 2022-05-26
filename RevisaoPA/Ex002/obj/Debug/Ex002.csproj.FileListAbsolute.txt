@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\RevisaoPA\Ex002\bin\Debug\Ex002.exe.config
+C:\Users\Aluno\Desktop\RevisaoPA\Ex002\bin\Debug\Ex002.exe
+C:\Users\Aluno\Desktop\RevisaoPA\Ex002\bin\Debug\Ex002.pdb
+C:\Users\Aluno\Desktop\RevisaoPA\Ex002\obj\Debug\Ex002.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\RevisaoPA\Ex002\obj\Debug\Ex002.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\RevisaoPA\Ex002\obj\Debug\Ex002.exe
+C:\Users\Aluno\Desktop\RevisaoPA\Ex002\obj\Debug\Ex002.pdb

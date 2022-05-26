@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\Contrutores\Contrutores\bin\Debug\Contrutores.exe.config
+C:\Users\Aluno\Desktop\Contrutores\Contrutores\bin\Debug\Contrutores.exe
+C:\Users\Aluno\Desktop\Contrutores\Contrutores\bin\Debug\Contrutores.pdb
+C:\Users\Aluno\Desktop\Contrutores\Contrutores\obj\Debug\Contrutores.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Contrutores\Contrutores\obj\Debug\Contrutores.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Contrutores\Contrutores\obj\Debug\Contrutores.exe
+C:\Users\Aluno\Desktop\Contrutores\Contrutores\obj\Debug\Contrutores.pdb
