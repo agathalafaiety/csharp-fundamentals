@@ -1,6 +1,6 @@
 # C# Fundamentals
 
-Repositório de estudos e exercícios desenvolvidos durante o aprendizado dos fundamentos da linguagem **C#** e da programação orientada a objetos.
+Fundamentos de C# e os principais conceitos de Programação Orientada a Objetos (POO)
 
 ## Conteúdos
 
