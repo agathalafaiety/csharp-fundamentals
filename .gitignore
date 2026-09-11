@@ -1,0 +1,32 @@
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+## Visual Studio cache and generated files
+*.VC.db
+*.VC.opendb
+*.pdb
+*.cache
+
+## NuGet
+packages/
+*.nupkg
+
+## Test results
+TestResults/
+*.trx
+
+## Operating system
+.DS_Store
+Thumbs.db

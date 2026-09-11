@@ -26,7 +26,7 @@ namespace AcessoBancoDados.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=L3T05\\SQLEXPRESS;Initial Catalog=dbDS2;Integrated Security=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=.\\SQLEXPRESS;Initial Catalog=dbDS2;Integrated Security=True")]
         public string StringConection {
             get {
                 return ((string)(this["StringConection"]));
