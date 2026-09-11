@@ -50,6 +50,6 @@ As soluções menores dentro de cada pasta também foram mantidas para permitir 
 
 O exemplo da pasta `Camadas` usa uma instância local do SQL Server Express (`.\SQLEXPRESS`). Execute o arquivo `ScriptCompleto221.sql` para criar o banco `dbDS2` antes de iniciar esse projeto. Caso utilize outra instância, ajuste a conexão no arquivo `Camadas/AcessoBancoDados/app.config`.
 
-## Autora
+##
+- Desenvolvido por [Agatha Lafaiety](https://github.com/agathalafaiety).
 
-Desenvolvido por [Agatha Lafaiety](https://github.com/agathalafaiety).
